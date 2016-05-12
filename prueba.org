@@ -1,0 +1,10 @@
+* titulo 1
+** titulo 2
+*** TODO una cosa para hacer
+    + [ ] poroto 1
+    + [ ] poroto 2
+      - [ ] poroto 2.1
+      - [ ] poroto 2.2
+    + [ ] poroto 3
+*** DONE una cosa ya hecha
+** <2016-05-03 mar> esto va con fecha
